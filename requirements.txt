@@ -1,0 +1,3 @@
+# SudokuSolver Requirements
+# This project uses only Python standard library - no external dependencies required
+# Python 3.6+ recommended for optimal compatibility
